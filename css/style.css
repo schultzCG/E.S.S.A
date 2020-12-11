@@ -1,0 +1,13 @@
+body{
+	background-color: rgb(38,57,89);
+}
+
+.main{
+	height: 60%;
+	width: 40%;
+	position: center;
+	margin: 200px;
+	margin-right: 100px;
+}
+
+ 
